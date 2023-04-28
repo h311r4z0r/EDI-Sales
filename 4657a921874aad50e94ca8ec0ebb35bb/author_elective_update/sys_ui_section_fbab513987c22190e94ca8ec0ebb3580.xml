@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="fbab513987c22190e94ca8ec0ebb3580" sys_domain="global" table="x_foai_edi_sales_requirement" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_request</element>
+            <position>0</position>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-07 15:22:36</sys_created_on>
+            <sys_id>7c1cd53987c22190e94ca8ec0ebb356e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_foai_edi_sales_requirement" sys_domain="global" view="Default view">fbab513987c22190e94ca8ec0ebb3580</sys_ui_section>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-07 15:22:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-07 15:22:36</sys_created_on>
+            <sys_id>701cd53987c22190e94ca8ec0ebb356f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_foai_edi_sales_requirement" sys_domain="global" view="Default view">fbab513987c22190e94ca8ec0ebb3580</sys_ui_section>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-07 15:22:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>2</position>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-07 15:22:36</sys_created_on>
+            <sys_id>741cd53987c22190e94ca8ec0ebb356f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_foai_edi_sales_requirement" sys_domain="global" view="Default view">fbab513987c22190e94ca8ec0ebb3580</sys_ui_section>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-07 15:22:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>3</position>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-07 15:22:36</sys_created_on>
+            <sys_id>781cd53987c22190e94ca8ec0ebb356f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_foai_edi_sales_requirement" sys_domain="global" view="Default view">fbab513987c22190e94ca8ec0ebb3580</sys_ui_section>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-07 15:22:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>4</position>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-07 15:22:36</sys_created_on>
+            <sys_id>7c1cd53987c22190e94ca8ec0ebb356f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_foai_edi_sales_requirement" sys_domain="global" view="Default view">fbab513987c22190e94ca8ec0ebb3580</sys_ui_section>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-07 15:22:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_foai_edi_sales_requirement</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-07 15:20:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fbab513987c22190e94ca8ec0ebb3580</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_foai_edi_sales_requirement</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+            <sys_update_name>sys_ui_section_fbab513987c22190e94ca8ec0ebb3580</sys_update_name>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-07 15:20:53</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</application>
+        <file_path/>
+        <instance_id>4ea6d630dbbc0910f37acac505961995</instance_id>
+        <instance_name>forwardairdev</instance_name>
+        <name>sys_ui_section_fbab513987c22190e94ca8ec0ebb3580</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="fbab513987c22190e94ca8ec0ebb3580" sys_domain="global" table="x_foai_edi_sales_requirement" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>service_request</element><position>0</position><sys_created_by>chris.layman@infocenter.io</sys_created_by><sys_created_on>2023-04-07 15:22:36</sys_created_on><sys_id>7c1cd53987c22190e94ca8ec0ebb356e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_foai_edi_sales_requirement" sys_domain="global" view="Default view">fbab513987c22190e94ca8ec0ebb3580</sys_ui_section><sys_updated_by>chris.layman@infocenter.io</sys_updated_by><sys_updated_on>2023-04-07 15:22:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>chris.layman@infocenter.io</sys_created_by><sys_created_on>2023-04-07 15:22:36</sys_created_on><sys_id>701cd53987c22190e94ca8ec0ebb356f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_foai_edi_sales_requirement" sys_domain="global" view="Default view">fbab513987c22190e94ca8ec0ebb3580</sys_ui_section><sys_updated_by>chris.layman@infocenter.io</sys_updated_by><sys_updated_on>2023-04-07 15:22:36</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_on</element><position>2</position><sys_created_by>chris.layman@infocenter.io</sys_created_by><sys_created_on>2023-04-07 15:22:36</sys_created_on><sys_id>741cd53987c22190e94ca8ec0ebb356f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_foai_edi_sales_requirement" sys_domain="global" view="Default view">fbab513987c22190e94ca8ec0ebb3580</sys_ui_section><sys_updated_by>chris.layman@infocenter.io</sys_updated_by><sys_updated_on>2023-04-07 15:22:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_updated_on</element><position>3</position><sys_created_by>chris.layman@infocenter.io</sys_created_by><sys_created_on>2023-04-07 15:22:36</sys_created_on><sys_id>781cd53987c22190e94ca8ec0ebb356f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_foai_edi_sales_requirement" sys_domain="global" view="Default view">fbab513987c22190e94ca8ec0ebb3580</sys_ui_section><sys_updated_by>chris.layman@infocenter.io</sys_updated_by><sys_updated_on>2023-04-07 15:22:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_updated_by</element><position>4</position><sys_created_by>chris.layman@infocenter.io</sys_created_by><sys_created_on>2023-04-07 15:22:36</sys_created_on><sys_id>7c1cd53987c22190e94ca8ec0ebb356f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_foai_edi_sales_requirement" sys_domain="global" view="Default view">fbab513987c22190e94ca8ec0ebb3580</sys_ui_section><sys_updated_by>chris.layman@infocenter.io</sys_updated_by><sys_updated_on>2023-04-07 15:22:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_foai_edi_sales_requirement</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>chris.layman@infocenter.io</sys_created_by><sys_created_on>2023-04-07 15:20:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fbab513987c22190e94ca8ec0ebb3580</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_foai_edi_sales_requirement</sys_name><sys_overrides/><sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package><sys_policy/><sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope><sys_update_name>sys_ui_section_fbab513987c22190e94ca8ec0ebb3580</sys_update_name><sys_updated_by>chris.layman@infocenter.io</sys_updated_by><sys_updated_on>2023-04-07 15:20:53</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1999431456</payload_hash>
+        <record_name>Requirement</record_name>
+        <reverted_from/>
+        <source>d657a921874aad50e94ca8ec0ebb35bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+        <sys_created_on>2023-04-07 15:22:36</sys_created_on>
+        <sys_id>701cd53987c22190e94ca8ec0ebb3572</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1875c4ff40a0000001</sys_recorded_at>
+        <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-04-07 15:22:36</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>381cd53988c22190d185ba70cadfad71</update_guid>
+        <update_guid_history>381cd53988c22190d185ba70cadfad71:1999431456,ffab51391fc221905d9fa26204123088:-816927392,77ab513946c2219097f2cfc4d556a583:1781817785</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+        <sys_created_on>2023-04-07 16:45:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>220164e5d749415e921e8e9cdc9a91b9</sys_id>
+        <sys_metadata>fbab513987c22190e94ca8ec0ebb3580</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_foai_edi_sales_requirement</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_parent display_value="">805609b187822190e94ca8ec0ebb35d4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_scope_delete display_value="">87406a576a55494b88211fdb6a126271</sys_scope_delete>
+        <sys_update_name>sys_ui_section_fbab513987c22190e94ca8ec0ebb3580</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_fbab513987c22190e94ca8ec0ebb3580">701cd53987c22190e94ca8ec0ebb3572</sys_update_version>
+        <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-04-07 16:45:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

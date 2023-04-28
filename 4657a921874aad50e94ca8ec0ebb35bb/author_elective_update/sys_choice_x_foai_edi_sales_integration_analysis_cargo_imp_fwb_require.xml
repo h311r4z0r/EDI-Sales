@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="cargo_imp_fwb_require" table="x_foai_edi_sales_integration_analysis" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>cargo_imp_fwb_require</element>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-07 18:52:20</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cargo_imp_fwb_require</sys_name>
+            <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+            <sys_update_name>sys_choice_x_foai_edi_sales_integration_analysis_cargo_imp_fwb_require</sys_update_name>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-07 18:52:20</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cargo_imp_fwb_require</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FMA</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-07 18:52:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d1c0e3987862190e94ca8ec0ebb354a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-07 18:52:20</sys_updated_on>
+            <value>fma</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cargo_imp_fwb_require</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FNA</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-07 18:52:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d51c0e3987862190e94ca8ec0ebb354d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-07 18:52:20</sys_updated_on>
+            <value>fna</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

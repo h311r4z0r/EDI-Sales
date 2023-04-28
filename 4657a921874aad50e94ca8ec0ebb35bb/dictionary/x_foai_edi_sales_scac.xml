@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a7cd65e5874aad50e94ca8ec0ebb3549" label="SCAC" max_length="40" name="x_foai_edi_sales_scac" type="collection">
+        <element label="Business Unit" max_length="32" name="business_unit" reference="business_unit" type="reference"/>
+        <element label="Code" max_length="40" name="code" type="string"/>
+        <element label="Service Request" max_length="32" name="service_request" reference="x_foai_edi_sales_service_request" type="reference"/>
+        <index name="index">
+            <element name="business_unit"/>
+        </index>
+        <index name="index2">
+            <element name="service_request"/>
+        </index>
+    </element>
+</database>
