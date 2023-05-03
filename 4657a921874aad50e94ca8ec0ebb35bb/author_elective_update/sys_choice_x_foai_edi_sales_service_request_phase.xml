@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="phase" table="x_foai_edi_sales_service_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>phase</element>
+            <name>x_foai_edi_sales_service_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-13 16:30:11</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>phase</sys_name>
+            <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+            <sys_update_name>sys_choice_x_foai_edi_sales_service_request_phase</sys_update_name>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-13 16:30:11</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requested</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_service_request</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-13 16:30:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ef4283b874ee910e94ca8ec0ebb3511</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-13 16:32:55</sys_updated_on>
+            <value>requested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Assigned</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_service_request</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-13 16:30:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9915ac37874ee910e94ca8ec0ebb35f1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-13 16:32:56</sys_updated_on>
+            <value>assigned</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Development</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_service_request</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-13 16:30:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c25e4bb874ee910e94ca8ec0ebb3557</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-13 16:32:59</sys_updated_on>
+            <value>development</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Testing</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_service_request</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-13 16:31:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf352cbb874ee910e94ca8ec0ebb355b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-13 16:33:03</sys_updated_on>
+            <value>testing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Staged</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_service_request</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-13 16:31:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b45e8bb874ee910e94ca8ec0ebb353c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-13 16:33:06</sys_updated_on>
+            <value>staged</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Implemented</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_service_request</name>
+            <sequence>70</sequence>
+            <synonyms/>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-13 16:31:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c55e4bb874ee910e94ca8ec0ebb3559</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-13 16:33:08</sys_updated_on>
+            <value>implemented</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hyper Care</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_service_request</name>
+            <sequence>80</sequence>
+            <synonyms/>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-13 16:31:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb55e4bb874ee910e94ca8ec0ebb355a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-13 16:33:10</sys_updated_on>
+            <value>hyper care</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Operational</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_service_request</name>
+            <sequence>90</sequence>
+            <synonyms/>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-13 16:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>556520fb874ee910e94ca8ec0ebb3519</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-13 16:33:13</sys_updated_on>
+            <value>operational</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cancelled</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_service_request</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-13 16:31:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b65acbb874ee910e94ca8ec0ebb3516</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-13 16:33:15</sys_updated_on>
+            <value>cancelled</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

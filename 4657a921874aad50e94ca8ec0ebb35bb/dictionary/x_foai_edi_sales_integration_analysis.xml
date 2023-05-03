@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="3df8f9f187462190e94ca8ec0ebb3554" extends="task" label="Integration Analysis" max_length="40" name="x_foai_edi_sales_integration_analysis" type="collection">
+        <element label="Account" max_length="32" name="account" reference="core_company" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Cancel Bookings" max_length="40" name="cancel_bookings" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Cargo IMP Based Messages" max_length="255" name="cargo_imp_based_messages" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Cargo IMP FWB Require" max_length="40" name="cargo_imp_fwb_require" type="string">
+            <choice>
+                <element inactive_on_update="false" label="FMA" sequence="0" value="fma"/>
+                <element inactive_on_update="false" label="FNA" sequence="1" value="fna"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Communication Method" max_length="40" name="communication_method" type="string">
+            <choice>
+                <element inactive_on_update="false" label="3GTMS" sequence="0" value="3gtms"/>
+                <element inactive_on_update="false" label="3PL Systems" sequence="1" value="3pl systems"/>
+                <element inactive_on_update="false" label="7L" sequence="2" value="7l"/>
+                <element inactive_on_update="false" label="Accufrate" sequence="3" value="accufrate"/>
+                <element inactive_on_update="false" label="AIRates" sequence="4" value="airates"/>
+                <element inactive_on_update="false" label="ALJEX" sequence="5" value="aljex"/>
+                <element inactive_on_update="false" label="Banyan" sequence="6" value="banyan"/>
+                <element inactive_on_update="false" label="Cargowise" sequence="7" value="cargowise"/>
+                <element inactive_on_update="false" label="CSA/WorldTrack" sequence="8" value="csa/worldtrack"/>
+                <element inactive_on_update="false" label="Descartes" sequence="9" value="descartes"/>
+                <element inactive_on_update="false" label="Efreight Solutions" sequence="10" value="efreight solutions"/>
+                <element inactive_on_update="false" label="Emerge" sequence="11" value="emerge"/>
+                <element inactive_on_update="false" label="ETAGroup" sequence="12" value="etagroup"/>
+                <element inactive_on_update="false" label="EX Works" sequence="13" value="ex works"/>
+                <element inactive_on_update="false" label="Gideon" sequence="14" value="gideon"/>
+                <element inactive_on_update="false" label="Kleinschmidt" sequence="15" value="kleinschmidt"/>
+                <element inactive_on_update="false" label="Kubix" sequence="16" value="kubix"/>
+                <element inactive_on_update="false" label="Logistical Lab" sequence="17" value="logistical lab"/>
+                <element inactive_on_update="false" label="MDMT5" sequence="18" value="mdmt5"/>
+                <element inactive_on_update="false" label="Mercury Gate" sequence="19" value="mercury gate"/>
+                <element inactive_on_update="false" label="One More Pallet" sequence="20" value="one more pallet"/>
+                <element inactive_on_update="false" label="Primus" sequence="21" value="primus"/>
+                <element inactive_on_update="false" label="Project44" sequence="22" value="project44"/>
+                <element inactive_on_update="false" label="SAAS" sequence="23" value="saas"/>
+                <element inactive_on_update="false" label="SITA/CHAMP" sequence="24" value="sita/champ"/>
+                <element inactive_on_update="false" label="Sterling Commerce/IBM" sequence="25" value="sterling commerce/ibm"/>
+                <element inactive_on_update="false" label="TFCONCEPT" sequence="26" value="tfconcept"/>
+                <element inactive_on_update="false" label="TRANSPLACE" sequence="27" value="transplace"/>
+                <element inactive_on_update="false" label="WDX" sequence="28" value="wdx"/>
+                <element inactive_on_update="false" label="SFTP" sequence="29" value="sftp"/>
+                <element inactive_on_update="false" label="AS2" sequence="30" value="as2"/>
+            </choice>
+        </element>
+        <element label="Invoice Contact" max_length="255" name="invoice_contact" type="string"/>
+        <element label="Invoice Email" max_length="255" name="invoice_email" type="string"/>
+        <element label="Invoice Phone" max_length="40" name="invoice_phone" type="string"/>
+        <element label="Onboarding Contact" max_length="255" name="onboarding_contact" type="string"/>
+        <element label="Onboarding Email" max_length="255" name="onboarding_email" type="string"/>
+        <element label="Onboarding Phone" max_length="40" name="onboarding_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other Option" max_length="255" name="other_option" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Production Credentials" max_length="255" name="production_credentials" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Send Bookings" max_length="40" name="send_bookings" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element label="Service Request" max_length="32" name="service_request" reference="x_foai_edi_sales_service_request" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Shipment Mode" max_length="40" name="shipment_mode" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Import" sequence="0" value="import"/>
+                <element inactive_on_update="false" label="Export" sequence="1" value="export"/>
+                <element inactive_on_update="false" label="Other" sequence="2" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="SITA/CHAMP Address" max_length="255" name="sita_champ_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Standard Options" max_length="40" name="standard_options" type="string">
+            <choice>
+                <element inactive_on_update="false" label="X12 204V4010" sequence="0" value="x12 204v4010"/>
+                <element inactive_on_update="false" label="API" sequence="1" value="api"/>
+                <element inactive_on_update="false" label="Cargo IMP FWB V10" sequence="2" value="cargo imp fwb v10"/>
+                <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
+            </choice>
+        </element>
+        <element label="Support Contact" max_length="255" name="support_contact" type="string"/>
+        <element label="Support Email" max_length="255" name="support_email" type="string"/>
+        <element label="Support Phone" max_length="40" name="support_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test Credentials" max_length="255" name="test_credentials" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TMS Used" max_length="255" name="tms_used" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Update Bookings" max_length="40" name="update_bookings" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="X12 204 Require" max_length="40" name="x12_204_require" type="string">
+            <choice>
+                <element inactive_on_update="false" label="997" sequence="0" value="997"/>
+                <element inactive_on_update="false" label="990" sequence="1" value="990"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+        <sys_created_on>2023-04-07 15:19:52</sys_created_on>
+        <sys_id>b87bd9f587c22190e94ca8ec0ebb352e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_foai_edi_sales_requirement.x_foai_edi_sales.requirement_user</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_security_acl display_value="x_foai_edi_sales_requirement">707bd9f587c22190e94ca8ec0ebb352b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b87bd9f587c22190e94ca8ec0ebb352e</sys_update_name>
+        <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-04-07 15:19:52</sys_updated_on>
+        <sys_user_role display_value="x_foai_edi_sales.requirement_user" name="x_foai_edi_sales.requirement_user">5c7b99b587c22190e94ca8ec0ebb3537</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</application>
+        <file_path/>
+        <instance_id>4ea6d630dbbc0910f37acac505961995</instance_id>
+        <instance_name>forwardairdev</instance_name>
+        <name>sys_security_acl_role_b87bd9f587c22190e94ca8ec0ebb352e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>chris.layman@infocenter.io</sys_created_by><sys_created_on>2023-04-07 15:19:52</sys_created_on><sys_id>b87bd9f587c22190e94ca8ec0ebb352e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_foai_edi_sales_requirement.x_foai_edi_sales.requirement_user</sys_name><sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package><sys_policy/><sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope><sys_security_acl display_value="x_foai_edi_sales_requirement">707bd9f587c22190e94ca8ec0ebb352b</sys_security_acl><sys_update_name>sys_security_acl_role_b87bd9f587c22190e94ca8ec0ebb352e</sys_update_name><sys_updated_by>chris.layman@infocenter.io</sys_updated_by><sys_updated_on>2023-04-07 15:19:52</sys_updated_on><sys_user_role display_value="x_foai_edi_sales.requirement_user" name="x_foai_edi_sales.requirement_user">5c7b99b587c22190e94ca8ec0ebb3537</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>384046109</payload_hash>
+        <record_name>x_foai_edi_sales_requirement.x_foai_edi_sales.requirement_user</record_name>
+        <reverted_from/>
+        <source>d657a921874aad50e94ca8ec0ebb35bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+        <sys_created_on>2023-04-07 15:19:52</sys_created_on>
+        <sys_id>b07bd9f587c22190e94ca8ec0ebb3556</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1875c4d74670000001</sys_recorded_at>
+        <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-04-07 15:19:52</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>b87bd9f5bfc22190ed37efdb5f8b9855</update_guid>
+        <update_guid_history>b87bd9f5bfc22190ed37efdb5f8b9855:384046109</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_foai_edi_sales_requirement.x_foai_edi_sales.requirement_user">ebee217987062190e94ca8ec0ebb35cd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+        <sys_created_on>2023-04-07 16:44:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>06aad791fccd425d8a648824213c2771</sys_id>
+        <sys_metadata>b87bd9f587c22190e94ca8ec0ebb352e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_foai_edi_sales_requirement.x_foai_edi_sales.requirement_user</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_parent display_value="">707bd9f587c22190e94ca8ec0ebb352b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_scope_delete display_value="">87406a576a55494b88211fdb6a126271</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_b87bd9f587c22190e94ca8ec0ebb352e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_b87bd9f587c22190e94ca8ec0ebb352e">b07bd9f587c22190e94ca8ec0ebb3556</sys_update_version>
+        <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-04-07 16:44:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

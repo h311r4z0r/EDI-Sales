@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="cargo_imp_fwb_require" label="Cargo IMP FWB Require" language="en" table="x_foai_edi_sales_integration_analysis">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cargo_imp_fwb_require</element>
+            <help/>
+            <hint/>
+            <label>Cargo IMP FWB Require</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <plural>Cargo IMP FWB Requires</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-07 18:52:19</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cargo IMP FWB Require</sys_name>
+            <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+            <sys_update_name>sys_documentation_x_foai_edi_sales_integration_analysis_cargo_imp_fwb_require_en</sys_update_name>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-07 18:52:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

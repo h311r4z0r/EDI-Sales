@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>x_foai_edi_sales.admin,x_foai_edi_sales.sales,x_foai_edi_sales.read</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+        <sys_created_on>2023-04-06 21:37:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6e38ed61874aad50e94ca8ec0ebb35fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EDI Sales</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_update_name>sys_app_application_6e38ed61874aad50e94ca8ec0ebb35fd</sys_update_name>
+        <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-04-06 21:37:13</sys_updated_on>
+        <title>EDI Sales</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

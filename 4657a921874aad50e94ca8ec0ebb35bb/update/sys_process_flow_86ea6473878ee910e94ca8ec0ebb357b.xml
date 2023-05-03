@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_foai_edi_sales_service_request">phase=hyper care^EQ<item display_value="Hyper Care" endquery="false" field="phase" goto="false" newquery="false" operator="=" or="false" value="hyper care"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description><![CDATA[<p>Hyper Care</p>]]></description>
+        <label>Hyper care</label>
+        <name>hyper care</name>
+        <order>70</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+        <sys_created_on>2023-04-13 16:55:38</sys_created_on>
+        <sys_id>86ea6473878ee910e94ca8ec0ebb357b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hyper care</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_update_name>sys_process_flow_86ea6473878ee910e94ca8ec0ebb357b</sys_update_name>
+        <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-04-13 16:55:38</sys_updated_on>
+        <table>x_foai_edi_sales_service_request</table>
+    </sys_process_flow>
+</record_update>

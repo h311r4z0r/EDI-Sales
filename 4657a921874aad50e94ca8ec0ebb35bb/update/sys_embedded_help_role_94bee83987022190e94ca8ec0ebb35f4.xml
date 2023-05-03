@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_foai_edi_sales.sales_manager_user" name="x_foai_edi_sales.sales_manager_user">54bee83987022190e94ca8ec0ebb35f2</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+        <sys_created_on>2023-04-07 12:04:19</sys_created_on>
+        <sys_id>94bee83987022190e94ca8ec0ebb35f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>54bee83987022190e94ca8ec0ebb35f2</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_update_name>sys_embedded_help_role_94bee83987022190e94ca8ec0ebb35f4</sys_update_name>
+        <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-04-07 12:04:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

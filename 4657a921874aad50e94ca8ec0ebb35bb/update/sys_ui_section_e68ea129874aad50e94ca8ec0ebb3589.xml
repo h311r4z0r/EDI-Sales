@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="SCAC" section_id="e68ea129874aad50e94ca8ec0ebb3589" sys_domain="global" table="x_foai_edi_sales_service_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.x_foai_edi_sales_service_request.x_foai_edi_sales_scac.service_request</element>
+            <position>0</position>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-06 22:09:11</sys_created_on>
+            <sys_id>3a8f6569874aad50e94ca8ec0ebb3514</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="SCAC" display_value="SCAC" name="x_foai_edi_sales_service_request" sys_domain="global" view="Default view">e68ea129874aad50e94ca8ec0ebb3589</sys_ui_section>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-06 22:09:11</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>SCAC</caption>
+            <header>false</header>
+            <name>x_foai_edi_sales_service_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
+            <sys_created_on>2023-04-06 22:04:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e68ea129874aad50e94ca8ec0ebb3589</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_foai_edi_sales_service_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+            <sys_update_name>sys_ui_section_e68ea129874aad50e94ca8ec0ebb3589</sys_update_name>
+            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-04-06 22:04:47</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
