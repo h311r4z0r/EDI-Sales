@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
     <sys_ui_policy action="INSERT_OR_UPDATE">
         <active>true</active>
-        <conditions table="x_foai_edi_sales_integration_analysis">standard_options=cargo imp fwb v10^EQ<item display_value="Cargo IMP FWB V10" endquery="false" field="standard_options" goto="false" newquery="false" operator="=" or="false" value="cargo imp fwb v10"/>
+        <conditions table="x_foai_edi_sales_integration_analysis">standard_options=cargo imp fwb v10^EQ<item endquery="false" field="standard_options" goto="false" newquery="false" operator="=" or="false" value="cargo imp fwb v10"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </conditions>
         <description/>

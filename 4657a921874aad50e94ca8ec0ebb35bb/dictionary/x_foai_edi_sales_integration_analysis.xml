@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="3df8f9f187462190e94ca8ec0ebb3554" extends="task" label="Integration Analysis" max_length="40" name="x_foai_edi_sales_integration_analysis" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Accessorials" max_length="40" name="accessorials" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
         <element label="Account" max_length="32" name="account" reference="core_company" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Account Rep." max_length="40" name="account_rep" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Billing Cycle:" max_length="40" name="billing_cycle" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Daily" sequence="0" value="daily"/>
+                <element inactive_on_update="false" label="Weekly (Friday)" sequence="1" value="weekly_friday"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Select EDI Billing Type:" max_length="40" name="billing_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Prepaid" sequence="0" value="prepaid"/>
+                <element inactive_on_update="false" label="Collect" sequence="1" value="collect"/>
+                <element inactive_on_update="false" label="Third Party" sequence="2" value="third party"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Block of airbills Required" max_length="40" name="block_of_airbills_required" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Select Booking Scenarios" max_length="40" name="booking_scenarios" type="glide_list">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="0" value="Choice 2"/>
+                <element inactive_on_update="false" label="D2D: Door to Door" sequence="0" value="d2d"/>
+                <element inactive_on_update="false" label="A2A: Airport to Airport" sequence="1" value="A2A: Airport to Airport"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="1" value="Choice 3"/>
+                <element inactive_on_update="false" label="A2D: Airport to Door" sequence="2" value="A2D: Airport to Door"/>
+                <element inactive_on_update="false" label="D2A: Door to Airport" sequence="3" value="D2A: Door to Airport"/>
+                <element inactive_on_update="false" label="L2L: Local to Local" sequence="4" value="L2L: Local to Local"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Cancel Bookings" max_length="40" name="cancel_bookings" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Can you provide invoice rejection reports?" max_length="40" name="can_you_provide_invoice_rejection_reports" type="string">
             <choice>
                 <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
                 <element inactive_on_update="false" label="No" sequence="1" value="no"/>
@@ -14,49 +57,223 @@
                 <element inactive_on_update="false" label="FNA" sequence="1" value="fna"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Communication Method" max_length="40" name="communication_method" type="string">
+        <element choice="1" label="Linehaul only:" max_length="4000" name="cargo_linehaul_only" type="glide_list">
             <choice>
-                <element inactive_on_update="false" label="3GTMS" sequence="0" value="3gtms"/>
-                <element inactive_on_update="false" label="3PL Systems" sequence="1" value="3pl systems"/>
-                <element inactive_on_update="false" label="7L" sequence="2" value="7l"/>
-                <element inactive_on_update="false" label="Accufrate" sequence="3" value="accufrate"/>
-                <element inactive_on_update="false" label="AIRates" sequence="4" value="airates"/>
-                <element inactive_on_update="false" label="ALJEX" sequence="5" value="aljex"/>
-                <element inactive_on_update="false" label="Banyan" sequence="6" value="banyan"/>
-                <element inactive_on_update="false" label="Cargowise" sequence="7" value="cargowise"/>
-                <element inactive_on_update="false" label="CSA/WorldTrack" sequence="8" value="csa/worldtrack"/>
-                <element inactive_on_update="false" label="Descartes" sequence="9" value="descartes"/>
-                <element inactive_on_update="false" label="Efreight Solutions" sequence="10" value="efreight solutions"/>
-                <element inactive_on_update="false" label="Emerge" sequence="11" value="emerge"/>
-                <element inactive_on_update="false" label="ETAGroup" sequence="12" value="etagroup"/>
-                <element inactive_on_update="false" label="EX Works" sequence="13" value="ex works"/>
-                <element inactive_on_update="false" label="Gideon" sequence="14" value="gideon"/>
-                <element inactive_on_update="false" label="Kleinschmidt" sequence="15" value="kleinschmidt"/>
-                <element inactive_on_update="false" label="Kubix" sequence="16" value="kubix"/>
-                <element inactive_on_update="false" label="Logistical Lab" sequence="17" value="logistical lab"/>
-                <element inactive_on_update="false" label="MDMT5" sequence="18" value="mdmt5"/>
-                <element inactive_on_update="false" label="Mercury Gate" sequence="19" value="mercury gate"/>
-                <element inactive_on_update="false" label="One More Pallet" sequence="20" value="one more pallet"/>
-                <element inactive_on_update="false" label="Primus" sequence="21" value="primus"/>
-                <element inactive_on_update="false" label="Project44" sequence="22" value="project44"/>
-                <element inactive_on_update="false" label="SAAS" sequence="23" value="saas"/>
-                <element inactive_on_update="false" label="SITA/CHAMP" sequence="24" value="sita/champ"/>
-                <element inactive_on_update="false" label="Sterling Commerce/IBM" sequence="25" value="sterling commerce/ibm"/>
-                <element inactive_on_update="false" label="TFCONCEPT" sequence="26" value="tfconcept"/>
-                <element inactive_on_update="false" label="TRANSPLACE" sequence="27" value="transplace"/>
-                <element inactive_on_update="false" label="WDX" sequence="28" value="wdx"/>
-                <element inactive_on_update="false" label="SFTP" sequence="29" value="sftp"/>
-                <element inactive_on_update="false" label="AS2" sequence="30" value="as2"/>
+                <element inactive_on_update="false" label="RCS – Arrive at origin terminal" sequence="10" value="cargo_linehaul_only_rcs"/>
+                <element inactive_on_update="false" label="DEP – Depart from origin terminal" sequence="20" value="cargo_linehaul_only_dep"/>
+                <element inactive_on_update="false" label="RCF – Arrive at Transfer Terminal" sequence="30" value="cargo_linehaul_only_rcf"/>
+                <element inactive_on_update="false" label="DEP – Depart from Transfer Terminal" sequence="40" value="cargo_linehaul_only_dep_transfer_terminal"/>
+                <element inactive_on_update="false" label="NFD – Arrive at Destination Terminal" sequence="50" value="cargo_linehaul_only_nfd"/>
+                <element inactive_on_update="false" label="DLV – Recovered from Destination Terminal" sequence="60" value="cargo_linehaul_only_dlv"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Class Rating" max_length="40" name="class_rating" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="How will this be communicated" max_length="40" name="communication_method" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Please provide examples for compatibility approval" max_length="40" name="compatibility_approval" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Customer Label" max_length="40" name="customer_label" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Density Program" max_length="40" name="density_program" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="How will this be communicated?" max_length="40" name="doc_upload_communication_method" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Can you send document images" max_length="40" name="doc_upload_document_images" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Which format" max_length="40" name="doc_upload_format" type="string">
+            <choice>
+                <element inactive_on_update="false" label="TIFF" sequence="0" value="tiff"/>
+                <element inactive_on_update="false" label="PDF" sequence="1" value="pdf"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Please provide more details" max_length="40" name="doc_upload_more_details" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Can you provide document with shipment identifier and document type" max_length="40" name="doc_upload_shipment_id_and_doc_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element choice="1" label="Door To Door" max_length="4000" name="door_to_door" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="X9 – Pickup" sequence="10" value="door_to_door_x9"/>
+                <element inactive_on_update="false" label="X3 – Tendered to our Origin facility" sequence="20" value="door_to_door_x3"/>
+                <element inactive_on_update="false" label="AF – Depart origin facility" sequence="30" value="door_to_door_af"/>
+                <element inactive_on_update="false" label="X4 – Arrived at Transfer Terminal Location" sequence="40" value="door_to_door_x4"/>
+                <element inactive_on_update="false" label="P1 – Departed Transfer Terminal Location" sequence="50" value="door_to_door_p1"/>
+                <element inactive_on_update="false" label="X1 – Arrived at Delivery Terminal Location" sequence="60" value="door_to_door_x1"/>
+                <element inactive_on_update="false" label="J1 – Out for Delivery" sequence="70" value="door_to_door_j1"/>
+                <element inactive_on_update="false" label="D1 – Completed unloading at Delivery Location" sequence="80" value="door_to_door_d1"/>
+                <element inactive_on_update="false" label="SD – Shipment delay" sequence="90" value="door_to_door_sd"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Please Enter Emergency Contact Number" max_length="40" name="emergency_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="How will this be communicated" max_length="40" name="emergency_contact_communication_method" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Emergency contact number" max_length="40" name="emergency_contact_number" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="GSV Program" max_length="40" name="gsv_program" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Business Unit" max_length="40" name="integration_analysis_business_unit" type="string"/>
+        <element choice="1" label="Intermodal only - Exports:" max_length="4000" name="intermodal_only_exports" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="AA – Pickup Appointment" sequence="10" value="intermodal_only_exports_aa"/>
+                <element inactive_on_update="false" label="OA – Carrier Out-gated Container" sequence="20" value="intermodal_only_exports_oa"/>
+                <element inactive_on_update="false" label="X3 – Carrier Arrived at Pickup Location" sequence="30" value="intermodal_only_exports_x3"/>
+                <element inactive_on_update="false" label="AF – Carrier Departed Pickup Location" sequence="40" value="intermodal_only_exports_af"/>
+                <element inactive_on_update="false" label="I1 – Carrier In-gated Container" sequence="50" value="intermodal_only_exports_i1"/>
+            </choice>
+        </element>
+        <element choice="1" label="Intermodal only: Generic Statuses" max_length="4000" name="intermodal_only_generic_statuses" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="AB – Delivery Appointment" sequence="10" value="intermodal_only_generic_statuses_ab"/>
+                <element inactive_on_update="false" label="AA – Pickup Appointment" sequence="20" value="intermodal_only_generic_statuses_aa"/>
+                <element inactive_on_update="false" label="X3 – Arrive at Pick-up Location" sequence="30" value="intermodal_only_generic_statuses_x3"/>
+                <element inactive_on_update="false" label="CP – Completed Loading at Pick-up Loc." sequence="40" value="intermodal_only_generic_statuses_cp"/>
+                <element inactive_on_update="false" label="AF – Departed Pick-up Loc. w/Shipment" sequence="50" value="intermodal_only_generic_statuses_af"/>
+                <element inactive_on_update="false" label="X4 – Arrive at Terminal" sequence="60" value="intermodal_only_generic_statuses_x4"/>
+                <element inactive_on_update="false" label="P1 – Depart Terminal" sequence="70" value="intermodal_only_generic_statuses_p1"/>
+                <element inactive_on_update="false" label="X1 – Arrive at Delivery Location" sequence="80" value="intermodal_only_generic_statuses_x1"/>
+                <element inactive_on_update="false" label="D1 – Completed Unloading at Delivery Loc." sequence="90" value="intermodal_only_generic_statuses_d1"/>
+                <element inactive_on_update="false" label="CD – Departed Delivery Location" sequence="100" value="intermodal_only_generic_statuses_cd"/>
+            </choice>
+        </element>
+        <element choice="1" label="Intermodal only - Imports:" max_length="4000" name="intermodal_only_imports" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="AB – Delivery Appointment" sequence="10" value="intermodal_only_imports_ab"/>
+                <element inactive_on_update="false" label="OA – Carrier Out-gated Container" sequence="20" value="intermodal_only_imports_oa"/>
+                <element inactive_on_update="false" label="X1 – Arrive at Delivery Location" sequence="30" value="intermodal_only_imports_x1"/>
+                <element inactive_on_update="false" label="CD – Carrier Departed Delivery Location" sequence="40" value="intermodal_only_imports_cd"/>
+                <element inactive_on_update="false" label="I1 – Carrier In-gated Container" sequence="50" value="intermodal_only_imports_i1"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Production" max_length="40" name="invoices_production" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Select:" max_length="40" name="invoices_select" type="string">
+            <choice>
+                <element inactive_on_update="false" label="X12-210" sequence="0" value="x12-210"/>
+                <element inactive_on_update="false" label="X12-110" sequence="1" value="x12-110"/>
+                <element inactive_on_update="false" label="997 response required" sequence="2" value="997 response required"/>
+                <element inactive_on_update="false" label="Detail invoice" sequence="3" value="detail invoice"/>
+                <element inactive_on_update="false" label="Summary Invoice" sequence="4" value="summary invoice"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Test" max_length="40" name="invoices_test" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Production" max_length="40" name="invoices_trading_production" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test" max_length="40" name="invoices_trading_test" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Additional requirements?" max_length="40" name="invoice_additional_requirements" type="string"/>
         <element label="Invoice Contact" max_length="255" name="invoice_contact" type="string"/>
         <element label="Invoice Email" max_length="255" name="invoice_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Please Explain Other" max_length="40" name="invoice_other" type="string"/>
         <element label="Invoice Phone" max_length="40" name="invoice_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Please attach invoice rejection reports" max_length="40" name="invoice_rejection_reports" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Invoice Standard options:" max_length="40" name="invoice_standard_options" type="string">
+            <choice>
+                <element inactive_on_update="false" label="X12 V4010" sequence="0" value="x12 v4010"/>
+                <element inactive_on_update="false" label="Flat File" sequence="1" value="flat file"/>
+                <element inactive_on_update="false" label="Email PDF" sequence="2" value="email pdf"/>
+                <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Keywords" max_length="40" name="keywords" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Please Provide examples" max_length="40" name="keyword_examples" type="string"/>
+        <element label="X3 – Arrive at origin terminal" max_length="40" name="linehaul_arriveatoriginterminal" type="boolean"/>
+        <element choice="1" label="Linehaul only" max_length="4000" name="linehaul_only" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="X3 – Arrive at origin terminal" sequence="10" value="linehaul_only_x3"/>
+                <element inactive_on_update="false" label="AF – Depart from origin terminal" sequence="20" value="linehaul_only_af"/>
+                <element inactive_on_update="false" label="X4 – Arrive at Transfer Terminal" sequence="30" value="linehaul_only_x4"/>
+                <element inactive_on_update="false" label="P1 – Depart from Transfer Terminal" sequence="40" value="linehaul_only_p1"/>
+                <element inactive_on_update="false" label="X1 – Arrive at Destination Terminal" sequence="50" value="linehaul_only_x1"/>
+                <element inactive_on_update="false" label="D1 – Recovered from Destination Terminal" sequence="60" value="linehaul_only_d1"/>
+                <element inactive_on_update="false" label="SD – Shipment delay" sequence="70" value="linehaul_only_sd"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="How will this be communicated?" max_length="40" name="methodofcommunication" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Multiple FA billing accounts" max_length="40" name="multiple_fa_billing_accounts" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
         <element label="Onboarding Contact" max_length="255" name="onboarding_contact" type="string"/>
         <element label="Onboarding Email" max_length="255" name="onboarding_email" type="string"/>
         <element label="Onboarding Phone" max_length="40" name="onboarding_phone" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Other Option" max_length="255" name="other_option" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="How will this be communicated?" max_length="40" name="pod_download_communication_method" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Which format" max_length="40" name="pod_download_doc_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="TIFF" sequence="0" value="tiff"/>
+                <element inactive_on_update="false" label="PDF" sequence="1" value="pdf"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Please provide more details" max_length="40" name="pod_download_more_details" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Can you accept this file naming convention: (shipmentID)_(Doc Type)_(Date YYYYMM" max_length="40" name="pod_download_naming_convention" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Production Credentials" max_length="255" name="production_credentials" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Are you able to send Remittance files?" max_length="40" name="remittance_files" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Remittance Standard option:" max_length="40" name="remittance_standard_option" type="string">
+            <choice>
+                <element inactive_on_update="false" label="X12 820V4010" sequence="0" value="x12 820v4010"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Required Refs:" max_length="40" name="required_refs" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Do you require document images" max_length="40" name="require_document_images" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Do you required invoice files?" max_length="40" name="require_invoices" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Do you require Status files?" max_length="40" name="require_status_files" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Send Bookings" max_length="40" name="send_bookings" type="string">
             <choice>
                 <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
@@ -72,11 +289,24 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="SITA/CHAMP Address" max_length="255" name="sita_champ_address" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Standard Options" max_length="40" name="standard_options" type="string">
+        <element attributes="edge_encryption_enabled=true" label="Please specify other" max_length="40" name="specify_other" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Standard Options" max_length="40" name="standard_options" type="glide_list">
             <choice>
                 <element inactive_on_update="false" label="X12 204V4010" sequence="0" value="x12 204v4010"/>
                 <element inactive_on_update="false" label="API" sequence="1" value="api"/>
                 <element inactive_on_update="false" label="Cargo IMP FWB V10" sequence="2" value="cargo imp fwb v10"/>
+                <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="02/" label="Production" max_length="40" name="statuses_production" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="02/" label="Test" max_length="40" name="statuses_test" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Production" max_length="40" name="statuses_trading_production" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test" max_length="40" name="statuses_trading_test" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status Standard options:" max_length="40" name="status_standard_options" type="string">
+            <choice>
+                <element inactive_on_update="false" label="X12 214V4010" sequence="0" value="x12 214v4010"/>
+                <element inactive_on_update="false" label="API" sequence="1" value="api"/>
+                <element inactive_on_update="false" label="Cargo IMP V7" sequence="2" value="cargo imp v7"/>
                 <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
             </choice>
         </element>
@@ -85,6 +315,18 @@
         <element label="Support Phone" max_length="40" name="support_phone" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Test Credentials" max_length="255" name="test_credentials" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="TMS Used" max_length="255" name="tms_used" type="string"/>
+        <element choice="1" label="Truck Load only:" max_length="4000" name="truck_load_only" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="X3 – Arrive at Shipper Location" sequence="10" value="truck_load_only_x3"/>
+                <element inactive_on_update="false" label="AF – Departed from Shipper" sequence="20" value="truck_load_only_af"/>
+                <element inactive_on_update="false" label="X6 – Location update" sequence="30" value="truck_load_only_x6"/>
+                <element inactive_on_update="false" label="X1 – Arrive at Consignee" sequence="40" value="truck_load_only_x1"/>
+                <element inactive_on_update="false" label="D1 – Completed" sequence="50" value="truck_load_only_d1"/>
+                <element inactive_on_update="false" label="AA – Pickup Appointment" sequence="60" value="truck_load_only_aa"/>
+                <element inactive_on_update="false" label="AB – Delivery Appointment" sequence="70" value="truck_load_only_ab"/>
+                <element inactive_on_update="false" label="AG – Estimated Delivery" sequence="80" value="truck_load_only_ag"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Update Bookings" max_length="40" name="update_bookings" type="string">
             <choice>
                 <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>

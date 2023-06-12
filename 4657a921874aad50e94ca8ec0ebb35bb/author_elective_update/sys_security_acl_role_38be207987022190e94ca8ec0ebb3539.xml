@@ -42,7 +42,7 @@
         <update_guid_history>f0be20795a0221901641d08f26c7bf3b:1011084167</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_foai_edi_sales_sales_manager.x_foai_edi_sales.sales_manager_user">b8fa3cb587422190e94ca8ec0ebb3501</sys_audit_delete>
+        <sys_audit_delete display_value="">b8fa3cb587422190e94ca8ec0ebb3501</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>chris.layman@infocenter.io</sys_created_by>
         <sys_created_on>2023-04-07 12:57:52</sys_created_on>

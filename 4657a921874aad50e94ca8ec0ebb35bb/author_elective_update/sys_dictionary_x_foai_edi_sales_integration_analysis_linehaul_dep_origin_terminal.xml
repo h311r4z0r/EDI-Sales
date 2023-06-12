@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="linehaul_dep_origin_terminal" table="x_foai_edi_sales_integration_analysis">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>DEP – Depart from origin terminal</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>linehaul_dep_origin_terminal</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">boolean</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_foai_edi_sales_integration_analysis</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-01 06:02:26</sys_created_on>
+        <sys_id>7b4b2e9b9703259445f637e3f153afc7</sys_id>
+        <sys_name>DEP – Depart from origin terminal</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_update_name>sys_dictionary_x_foai_edi_sales_integration_analysis_linehaul_dep_origin_terminal</sys_update_name>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-01 06:02:26</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</application>
+        <file_path/>
+        <instance_id>4ea6d630dbbc0910f37acac505961995</instance_id>
+        <instance_name>forwardairdev</instance_name>
+        <name>sys_dictionary_x_foai_edi_sales_integration_analysis_linehaul_dep_origin_terminal</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="linehaul_dep_origin_terminal" table="x_foai_edi_sales_integration_analysis"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>DEP – Depart from origin terminal</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>linehaul_dep_origin_terminal</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="">boolean</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_foai_edi_sales_integration_analysis</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 06:02:26</sys_created_on><sys_id>7b4b2e9b9703259445f637e3f153afc7</sys_id><sys_name>DEP – Depart from origin terminal</sys_name><sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package><sys_policy/><sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope><sys_update_name>sys_dictionary_x_foai_edi_sales_integration_analysis_linehaul_dep_origin_terminal</sys_update_name><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 06:02:26</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-1621211721</payload_hash>
+        <record_name>Integration Analysis.DEP – Depart from origin terminal</record_name>
+        <reverted_from/>
+        <source>3f199f5697cb295445f637e3f153aff4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-01 06:02:51</sys_created_on>
+        <sys_id>ad6b2adb9703259445f637e3f153afd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188758d3fe40000001</sys_recorded_at>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-01 06:02:51</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>256b2adb320325943bc31ed27fa9cdd1</update_guid>
+        <update_guid_history>256b2adb320325943bc31ed27fa9cdd1:-1621211721</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-02 09:38:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>17244e8ba43240f185047bdc907f5191</sys_id>
+        <sys_metadata>7b4b2e9b9703259445f637e3f153afc7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEP – Depart from origin terminal</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_parent display_value="Integration Analysis">3df8f9f187462190e94ca8ec0ebb3554</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_scope_delete display_value="">87406a576a55494b88211fdb6a126271</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_foai_edi_sales_integration_analysis_linehaul_dep_origin_terminal</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_foai_edi_sales_integration_analysis_linehaul_dep_origin_terminal">ad6b2adb9703259445f637e3f153afd1</sys_update_version>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-02 09:38:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

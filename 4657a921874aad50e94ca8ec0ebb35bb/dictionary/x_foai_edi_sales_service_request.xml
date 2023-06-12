@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="3c186d61874aad50e94ca8ec0ebb3526" extends="task" label="Sales Request" max_length="40" name="x_foai_edi_sales_service_request" type="collection">
-        <element attributes="encode_utf8=false" label="Account" max_length="32" name="account" reference="core_company" type="reference"/>
+        <element attributes="encode_utf8=false" label="Account" max_length="32" name="account" read_only="true" reference="core_company" type="reference"/>
         <element label="Additional Business" max_length="40" name="additional_business" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Bill-To Account" max_length="40" name="biil_to_account" type="string"/>
         <element label="Business Case" max_length="65536" name="business_case" type="html"/>
         <element attributes="edge_encryption_enabled=true" label="Business Contact" max_length="40" name="business_contact" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Business Email" max_length="40" name="business_email" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Business Phone" max_length="40" name="business_phone" type="string"/>
+        <element choice="1" label="business unit" max_length="40" name="business_unit" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Final Mile" value="final_mile"/>
+                <element inactive_on_update="false" label="Intermodal" value="intermodal"/>
+                <element inactive_on_update="false" label="LTL" value="ltl"/>
+                <element inactive_on_update="false" label="Truckload" value="truckload"/>
+            </choice>
+        </element>
         <element label="Critical Elements Needed" max_length="65536" name="critical_elements_needed" type="html"/>
         <element attributes="omit_sys_original=true" label="Current Revenue" max_length="20" name="current_revenue" type="currency"/>
+        <element label="FA Rep" max_length="32" name="fa_rep" reference="sys_user" reference_qual="active=true^nameISNOTEMPTY^emailISNOTEMPTY^EQ" reference_qual_condition="active=true^nameISNOTEMPTY^emailISNOTEMPTY^EQ" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="IT Contact" max_length="40" name="it_contact" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="IT Email" max_length="40" name="it_email" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="IT Phone" max_length="40" name="it_phone" type="string"/>
@@ -27,6 +36,9 @@
         </element>
         <element attributes="omit_sys_original=true" label="Potential Revenue" max_length="20" name="potential_revenue" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Reason" max_length="40" name="reason" type="string"/>
+        <element choice="1" label="Sales req business unit" max_length="40" name="sales_req_business_unit" read_only="true" type="string">
+            <choice/>
+        </element>
         <element label="Waiting on Customer" max_length="40" name="waiting_on_customer" type="boolean"/>
     </element>
 </database>

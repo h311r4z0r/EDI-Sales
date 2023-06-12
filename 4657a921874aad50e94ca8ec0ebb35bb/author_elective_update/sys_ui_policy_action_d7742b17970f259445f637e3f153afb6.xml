@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>intermodal_exports_i1</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-01 10:12:28</sys_created_on>
+        <sys_id>d7742b17970f259445f637e3f153afb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>intermodal_exports_i1</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_update_name>sys_ui_policy_action_d7742b17970f259445f637e3f153afb6</sys_update_name>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-01 10:12:28</sys_updated_on>
+        <table>x_foai_edi_sales_integration_analysis</table>
+        <ui_policy display_value="If Business Unit is &quot;Intermodal&quot;">63022f1f97cb259445f637e3f153af16</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</application>
+        <file_path/>
+        <instance_id>4ea6d630dbbc0910f37acac505961995</instance_id>
+        <instance_name>forwardairdev</instance_name>
+        <name>sys_ui_policy_action_d7742b17970f259445f637e3f153afb6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>intermodal_exports_i1</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 10:12:28</sys_created_on><sys_id>d7742b17970f259445f637e3f153afb6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>intermodal_exports_i1</sys_name><sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package><sys_policy/><sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope><sys_update_name>sys_ui_policy_action_d7742b17970f259445f637e3f153afb6</sys_update_name><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 10:12:28</sys_updated_on><table>x_foai_edi_sales_integration_analysis</table><ui_policy display_value="If Business Unit is &quot;Intermodal&quot;">63022f1f97cb259445f637e3f153af16</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1056858413</payload_hash>
+        <record_name>intermodal_exports_i1</record_name>
+        <reverted_from/>
+        <source>3f199f5697cb295445f637e3f153aff4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-01 10:12:28</sys_created_on>
+        <sys_id>ce846b17970f259445f637e3f153afd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1887671c76b0000001</sys_recorded_at>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-01 10:12:28</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>c2846b17b20f2594b0a79636dca550d4</update_guid>
+        <update_guid_history>c2846b17b20f2594b0a79636dca550d4:1056858413</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-02 09:46:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>1912e9571fbc404287727b926e6d8b99</sys_id>
+        <sys_metadata>d7742b17970f259445f637e3f153afb6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>intermodal_exports_i1</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_parent display_value="If Business Unit is &quot;Intermodal&quot;">63022f1f97cb259445f637e3f153af16</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_scope_delete display_value="">87406a576a55494b88211fdb6a126271</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_d7742b17970f259445f637e3f153afb6</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_d7742b17970f259445f637e3f153afb6">ce846b17970f259445f637e3f153afd4</sys_update_version>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-02 09:46:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="doortodoor_d1" table="x_foai_edi_sales_integration_analysis">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>D1 – Completed unloading at Delivery Location</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>doortodoor_d1</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">boolean</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_foai_edi_sales_integration_analysis</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-01 05:08:52</sys_created_on>
+        <sys_id>b20fde5b978fe19445f637e3f153af8a</sys_id>
+        <sys_name>D1 – Completed unloading at Delivery Location</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_update_name>sys_dictionary_x_foai_edi_sales_integration_analysis_doortodoor_d1</sys_update_name>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-01 05:08:52</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</application>
+        <file_path/>
+        <instance_id>4ea6d630dbbc0910f37acac505961995</instance_id>
+        <instance_name>forwardairdev</instance_name>
+        <name>sys_dictionary_x_foai_edi_sales_integration_analysis_doortodoor_d1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="doortodoor_d1" table="x_foai_edi_sales_integration_analysis"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>D1 – Completed unloading at Delivery Location</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>doortodoor_d1</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="">boolean</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_foai_edi_sales_integration_analysis</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:08:52</sys_created_on><sys_id>b20fde5b978fe19445f637e3f153af8a</sys_id><sys_name>D1 – Completed unloading at Delivery Location</sys_name><sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package><sys_policy/><sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope><sys_update_name>sys_dictionary_x_foai_edi_sales_integration_analysis_doortodoor_d1</sys_update_name><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:08:52</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>928736757</payload_hash>
+        <record_name>Integration Analysis.D1 – Completed unloading at Delivery Location</record_name>
+        <reverted_from/>
+        <source>3f199f5697cb295445f637e3f153aff4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-01 05:09:14</sys_created_on>
+        <sys_id>d42f569b978fe19445f637e3f153af1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188755c2b640000001</sys_recorded_at>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-01 05:09:14</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>5c2f569be08fe1942e13abfdc4f0781b</update_guid>
+        <update_guid_history>5c2f569be08fe1942e13abfdc4f0781b:928736757</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-02 09:51:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>32860caa74fe4832a1787c87a4059dc4</sys_id>
+        <sys_metadata>b20fde5b978fe19445f637e3f153af8a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>D1 – Completed unloading at Delivery Location</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_parent display_value="Integration Analysis">3df8f9f187462190e94ca8ec0ebb3554</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_scope_delete display_value="">87406a576a55494b88211fdb6a126271</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_foai_edi_sales_integration_analysis_doortodoor_d1</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_foai_edi_sales_integration_analysis_doortodoor_d1">d42f569b978fe19445f637e3f153af1c</sys_update_version>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-02 09:51:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

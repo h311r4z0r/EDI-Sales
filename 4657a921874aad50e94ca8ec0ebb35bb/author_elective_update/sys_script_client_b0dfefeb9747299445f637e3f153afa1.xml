@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>status_standard_options</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Hide X12 214 and cargo imp v7Section</name>
+        <order>100</order>
+        <script><![CDATA[function onLoad() {
+
+g_form.setSectionDisplay('x12_214', flase);
+g_form.setSectionDisplay('cargo_imp_v7', flase);   
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-02 05:59:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b0dfefeb9747299445f637e3f153afa1</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Hide X12 214 and cargo imp v7Section</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_update_name>sys_script_client_b0dfefeb9747299445f637e3f153afa1</sys_update_name>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-02 06:25:38</sys_updated_on>
+        <table>x_foai_edi_sales_integration_analysis</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</application>
+        <file_path/>
+        <instance_id>4ea6d630dbbc0910f37acac505961995</instance_id>
+        <instance_name>forwardairdev</instance_name>
+        <name>sys_script_client_b0dfefeb9747299445f637e3f153afa1</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;status_standard_options&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Hide X12 214 and cargo imp v7Section&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+
+g_form.setSectionDisplay('x12_214', flase);
+g_form.setSectionDisplay('cargo_imp_v7', flase);   
+
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;pruthav.abhyankar@infocenter.io&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-06-02 05:59:38&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;b0dfefeb9747299445f637e3f153afa1&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Hide X12 214 and cargo imp v7Section&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="EDI Sales" source="x_foai_edi_sales"&gt;4657a921874aad50e94ca8ec0ebb35bb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="EDI Sales"&gt;4657a921874aad50e94ca8ec0ebb35bb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_b0dfefeb9747299445f637e3f153afa1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;pruthav.abhyankar@infocenter.io&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-06-02 06:25:38&lt;/sys_updated_on&gt;&lt;table&gt;x_foai_edi_sales_integration_analysis&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>256527475</payload_hash>
+        <record_name>Hide X12 214 and cargo imp v7Section</record_name>
+        <reverted_from/>
+        <source>3f199f5697cb295445f637e3f153aff4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-02 06:25:38</sys_created_on>
+        <sys_id>cd3af76b97c7299445f637e3f153af3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1887ac8770d0000001</sys_recorded_at>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-02 06:25:38</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>813af76b3ec72994f6e32aa2b8d1313d</update_guid>
+        <update_guid_history>813af76b3ec72994f6e32aa2b8d1313d:256527475,be1aff2b32c729941af6bf5ef2420304:1695348922,94d9b32bf1c7299491a1ead0d95a092d:-643838825,f178bfa338c72994131184bd7036ee3b:1695348922,14e6fbafd4872994384a114e7d3c8492:428268902,dc44f72b358729941de27230bc6455a0:21321710</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-02 06:41:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>07c90f93de1446948830d89e29422f64</sys_id>
+        <sys_metadata>b0dfefeb9747299445f637e3f153afa1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hide X12 214 and cargo imp v7Section</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_parent display_value="Integration Analysis">3df8f9f187462190e94ca8ec0ebb3554</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_scope_delete display_value="">87406a576a55494b88211fdb6a126271</sys_scope_delete>
+        <sys_update_name>sys_script_client_b0dfefeb9747299445f637e3f153afa1</sys_update_name>
+        <sys_update_version display_value="sys_script_client_b0dfefeb9747299445f637e3f153afa1">cd3af76b97c7299445f637e3f153af3d</sys_update_version>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-02 06:41:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

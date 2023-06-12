@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Statuses" section_id="9c1cb1479787219445f637e3f153af07" sys_domain="global" table="x_foai_edi_sales_integration_analysis" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-07 04:57:38</sys_created_on>
+            <sys_id>7806dd959793291045f637e3f153af36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-07 04:57:38</sys_updated_on>
+            <text>Forward's X12 Based Messages:&#13;
+Sender/Receiver ID And Qualifier</text>
+            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-07 04:57:38</sys_created_on>
+            <sys_id>b006dd959793291045f637e3f153af37</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-07 04:57:38</sys_updated_on>
+            <text>Trading Partner's X12 Based Messages:&#13;
+Sender/Receiver ID And Qualifier</text>
+            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>require_status_files</element>
+            <position>0</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-07 04:57:38</sys_created_on>
+            <sys_id>7006dd959793291045f637e3f153af3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statuses" display_value="Statuses" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">9c1cb1479787219445f637e3f153af07</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-07 04:57:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status_standard_options</element>
+            <position>1</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-07 04:57:38</sys_created_on>
+            <sys_id>7806dd959793291045f637e3f153af3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statuses" display_value="Statuses" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">9c1cb1479787219445f637e3f153af07</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-07 04:57:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>specify_other</element>
+            <position>2</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-07 04:57:38</sys_created_on>
+            <sys_id>7c06dd959793291045f637e3f153af3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statuses" display_value="Statuses" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">9c1cb1479787219445f637e3f153af07</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-07 04:57:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-07 04:57:38</sys_created_on>
+            <sys_id>7006dd959793291045f637e3f153af3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statuses" display_value="Statuses" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">9c1cb1479787219445f637e3f153af07</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-07 04:57:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>7806dd959793291045f637e3f153af36</element>
+            <position>4</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-07 04:57:38</sys_created_on>
+            <sys_id>7406dd959793291045f637e3f153af3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statuses" display_value="Statuses" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">9c1cb1479787219445f637e3f153af07</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-07 04:57:38</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>statuses_test</element>
+            <position>5</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-07 04:57:38</sys_created_on>
+            <sys_id>7806dd959793291045f637e3f153af3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statuses" display_value="Statuses" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">9c1cb1479787219445f637e3f153af07</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-07 04:57:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>statuses_production</element>
+            <position>6</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-07 04:57:38</sys_created_on>
+            <sys_id>7c06dd959793291045f637e3f153af3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statuses" display_value="Statuses" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">9c1cb1479787219445f637e3f153af07</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-07 04:57:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>b006dd959793291045f637e3f153af37</element>
+            <position>7</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-07 04:57:38</sys_created_on>
+            <sys_id>7006dd959793291045f637e3f153af40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statuses" display_value="Statuses" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">9c1cb1479787219445f637e3f153af07</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-07 04:57:38</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>statuses_trading_test</element>
+            <position>8</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-07 04:57:38</sys_created_on>
+            <sys_id>7406dd959793291045f637e3f153af40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statuses" display_value="Statuses" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">9c1cb1479787219445f637e3f153af07</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-07 04:57:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>statuses_trading_production</element>
+            <position>9</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-07 04:57:38</sys_created_on>
+            <sys_id>7806dd959793291045f637e3f153af40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statuses" display_value="Statuses" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">9c1cb1479787219445f637e3f153af07</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-07 04:57:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Statuses</caption>
+            <header>false</header>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 07:57:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c1cb1479787219445f637e3f153af07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_foai_edi_sales_integration_analysis</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+            <sys_update_name>sys_ui_section_9c1cb1479787219445f637e3f153af07</sys_update_name>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-05-31 07:57:34</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

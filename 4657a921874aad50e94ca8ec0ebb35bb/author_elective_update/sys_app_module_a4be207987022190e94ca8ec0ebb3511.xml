@@ -65,7 +65,7 @@
         <update_guid_history>60be20790302219041bdb01210fca714:267787696</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Sales Managers">f8fa3cb587422190e94ca8ec0ebb351a</sys_audit_delete>
+        <sys_audit_delete display_value="">f8fa3cb587422190e94ca8ec0ebb351a</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>chris.layman@infocenter.io</sys_created_by>
         <sys_created_on>2023-04-07 12:57:52</sys_created_on>

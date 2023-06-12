@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="X12-214" section_id="398047c39783619445f637e3f153afe3" sys_domain="global" table="x_foai_edi_sales_integration_analysis" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>linehaul_x3</element>
+            <position>0</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c696669f97cfe19445f637e3f153aff6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>linehaul_x4</element>
+            <position>1</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ce96669f97cfe19445f637e3f153aff6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>linehaul_x1</element>
+            <position>2</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c296669f97cfe19445f637e3f153aff7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>linehaul_sd</element>
+            <position>3</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c696669f97cfe19445f637e3f153aff7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>doortodoor_x3</element>
+            <position>4</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ca96669f97cfe19445f637e3f153aff7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>doortodoor_x4</element>
+            <position>5</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ce96669f97cfe19445f637e3f153aff7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>doortodoor_x1</element>
+            <position>6</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c296669f97cfe19445f637e3f153aff8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>doortodoor_d1</element>
+            <position>7</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c696669f97cfe19445f637e3f153aff8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_imports_ab</element>
+            <position>8</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ca96669f97cfe19445f637e3f153aff8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_imports_x1</element>
+            <position>9</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ce96669f97cfe19445f637e3f153aff8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_imports_i1</element>
+            <position>10</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c296669f97cfe19445f637e3f153aff9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_exports_oa</element>
+            <position>11</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c696669f97cfe19445f637e3f153aff9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_exports_af</element>
+            <position>12</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ca96669f97cfe19445f637e3f153aff9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_ab</element>
+            <position>13</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ce96669f97cfe19445f637e3f153aff9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_x3</element>
+            <position>14</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c296669f97cfe19445f637e3f153affa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_af</element>
+            <position>15</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c696669f97cfe19445f637e3f153affa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_p1</element>
+            <position>16</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ca96669f97cfe19445f637e3f153affa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_d1</element>
+            <position>17</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ce96669f97cfe19445f637e3f153affa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>truckload_x3</element>
+            <position>18</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c296669f97cfe19445f637e3f153affb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>truckload_x6</element>
+            <position>19</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c696669f97cfe19445f637e3f153affb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>truckload_d1</element>
+            <position>20</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ca96669f97cfe19445f637e3f153affb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>truckload_ab</element>
+            <position>21</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ce96669f97cfe19445f637e3f153affb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>22</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c296669f97cfe19445f637e3f153affc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>linehaul_af</element>
+            <position>23</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c696669f97cfe19445f637e3f153affc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>linehaul_p1</element>
+            <position>24</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ca96669f97cfe19445f637e3f153affc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>linehaul_d1</element>
+            <position>25</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ce96669f97cfe19445f637e3f153affc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>doortodoor_x9</element>
+            <position>26</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c296669f97cfe19445f637e3f153affd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>doortodoor_af</element>
+            <position>27</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c696669f97cfe19445f637e3f153affd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>doortodoor_p1</element>
+            <position>28</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ca96669f97cfe19445f637e3f153affd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>doortodoor_j1</element>
+            <position>29</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ce96669f97cfe19445f637e3f153affd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>doortodoor_sd</element>
+            <position>30</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c296669f97cfe19445f637e3f153affe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_imports_oa</element>
+            <position>31</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c696669f97cfe19445f637e3f153affe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_imports_cd</element>
+            <position>32</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ca96669f97cfe19445f637e3f153affe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_exports_aa</element>
+            <position>33</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ce96669f97cfe19445f637e3f153affe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_exports_x3</element>
+            <position>34</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c296669f97cfe19445f637e3f153afff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_exports_i1</element>
+            <position>35</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c696669f97cfe19445f637e3f153afff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_aa</element>
+            <position>36</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ca96669f97cfe19445f637e3f153afff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_cp</element>
+            <position>37</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ce96669f97cfe19445f637e3f153afff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_x4</element>
+            <position>38</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c296a69f97cfe19445f637e3f153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_x1</element>
+            <position>39</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c696a69f97cfe19445f637e3f153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intermodal_cd</element>
+            <position>40</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ca96a69f97cfe19445f637e3f153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>truckload_af</element>
+            <position>41</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ce96a69f97cfe19445f637e3f153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>truckload_x1</element>
+            <position>42</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c296a69f97cfe19445f637e3f153af01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>truckload_aa</element>
+            <position>43</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>c696a69f97cfe19445f637e3f153af01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>truckload_ag</element>
+            <position>44</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+            <sys_id>ca96a69f97cfe19445f637e3f153af01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>X12-214</caption>
+            <header>false</header>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 12:56:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>398047c39783619445f637e3f153afe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_foai_edi_sales_integration_analysis</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+            <sys_update_name>sys_ui_section_398047c39783619445f637e3f153afe3</sys_update_name>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-05-31 12:56:41</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</application>
+        <file_path/>
+        <instance_id>4ea6d630dbbc0910f37acac505961995</instance_id>
+        <instance_name>forwardairdev</instance_name>
+        <name>sys_ui_section_398047c39783619445f637e3f153afe3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="X12-214" section_id="398047c39783619445f637e3f153afe3" sys_domain="global" table="x_foai_edi_sales_integration_analysis" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>linehaul_x3</element><position>0</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c696669f97cfe19445f637e3f153aff6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>linehaul_x4</element><position>1</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ce96669f97cfe19445f637e3f153aff6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>linehaul_x1</element><position>2</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c296669f97cfe19445f637e3f153aff7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>linehaul_sd</element><position>3</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c696669f97cfe19445f637e3f153aff7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>doortodoor_x3</element><position>4</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ca96669f97cfe19445f637e3f153aff7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>doortodoor_x4</element><position>5</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ce96669f97cfe19445f637e3f153aff7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>doortodoor_x1</element><position>6</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c296669f97cfe19445f637e3f153aff8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>doortodoor_d1</element><position>7</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c696669f97cfe19445f637e3f153aff8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_imports_ab</element><position>8</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ca96669f97cfe19445f637e3f153aff8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_imports_x1</element><position>9</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ce96669f97cfe19445f637e3f153aff8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_imports_i1</element><position>10</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c296669f97cfe19445f637e3f153aff9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_exports_oa</element><position>11</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c696669f97cfe19445f637e3f153aff9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_exports_af</element><position>12</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ca96669f97cfe19445f637e3f153aff9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_ab</element><position>13</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ce96669f97cfe19445f637e3f153aff9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_x3</element><position>14</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c296669f97cfe19445f637e3f153affa</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_af</element><position>15</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c696669f97cfe19445f637e3f153affa</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_p1</element><position>16</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ca96669f97cfe19445f637e3f153affa</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_d1</element><position>17</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ce96669f97cfe19445f637e3f153affa</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>truckload_x3</element><position>18</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c296669f97cfe19445f637e3f153affb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>truckload_x6</element><position>19</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c696669f97cfe19445f637e3f153affb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>truckload_d1</element><position>20</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ca96669f97cfe19445f637e3f153affb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>truckload_ab</element><position>21</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ce96669f97cfe19445f637e3f153affb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>22</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c296669f97cfe19445f637e3f153affc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>linehaul_af</element><position>23</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c696669f97cfe19445f637e3f153affc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>linehaul_p1</element><position>24</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ca96669f97cfe19445f637e3f153affc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>linehaul_d1</element><position>25</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ce96669f97cfe19445f637e3f153affc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>doortodoor_x9</element><position>26</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c296669f97cfe19445f637e3f153affd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>doortodoor_af</element><position>27</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c696669f97cfe19445f637e3f153affd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>doortodoor_p1</element><position>28</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ca96669f97cfe19445f637e3f153affd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>doortodoor_j1</element><position>29</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ce96669f97cfe19445f637e3f153affd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>doortodoor_sd</element><position>30</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c296669f97cfe19445f637e3f153affe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_imports_oa</element><position>31</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c696669f97cfe19445f637e3f153affe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_imports_cd</element><position>32</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ca96669f97cfe19445f637e3f153affe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_exports_aa</element><position>33</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ce96669f97cfe19445f637e3f153affe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_exports_x3</element><position>34</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c296669f97cfe19445f637e3f153afff</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_exports_i1</element><position>35</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c696669f97cfe19445f637e3f153afff</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_aa</element><position>36</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ca96669f97cfe19445f637e3f153afff</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_cp</element><position>37</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ce96669f97cfe19445f637e3f153afff</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_x4</element><position>38</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c296a69f97cfe19445f637e3f153af00</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_x1</element><position>39</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c696a69f97cfe19445f637e3f153af00</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>intermodal_cd</element><position>40</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ca96a69f97cfe19445f637e3f153af00</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>truckload_af</element><position>41</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ce96a69f97cfe19445f637e3f153af00</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>truckload_x1</element><position>42</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c296a69f97cfe19445f637e3f153af01</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>truckload_aa</element><position>43</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>c696a69f97cfe19445f637e3f153af01</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>truckload_ag</element><position>44</position><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-06-01 05:41:51</sys_created_on><sys_id>ca96a69f97cfe19445f637e3f153af01</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="X12-214" display_value="X12-214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">398047c39783619445f637e3f153afe3</sys_ui_section><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-06-01 05:41:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>X12-214</caption><header>false</header><name>x_foai_edi_sales_integration_analysis</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by><sys_created_on>2023-05-31 12:56:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>398047c39783619445f637e3f153afe3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_foai_edi_sales_integration_analysis</sys_name><sys_overrides/><sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package><sys_policy/><sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope><sys_update_name>sys_ui_section_398047c39783619445f637e3f153afe3</sys_update_name><sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by><sys_updated_on>2023-05-31 12:56:41</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>198660425</payload_hash>
+        <record_name>Integration Analysis</record_name>
+        <reverted_from/>
+        <source>3f199f5697cb295445f637e3f153aff4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-01 05:41:51</sys_created_on>
+        <sys_id>8a96a69f97cfe19445f637e3f153af06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188757a089e0000001</sys_recorded_at>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-01 05:41:51</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>8e96a69fcbcfe1949837e73151500705</update_guid>
+        <update_guid_history>8e96a69fcbcfe1949837e73151500705:198660425,3c2f569b598fe1940df16a6fbed7d8c4:-1582285451,1680c7c3988361940bb5ba8000722a3b:1602248978</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-02 05:02:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>9b2312656912476cbbae9e7b43fa7d04</sys_id>
+        <sys_metadata>398047c39783619445f637e3f153afe3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>X12-214</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_parent display_value="Integration Analysis">3df8f9f187462190e94ca8ec0ebb3554</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_scope_delete display_value="">87406a576a55494b88211fdb6a126271</sys_scope_delete>
+        <sys_update_name>sys_ui_section_398047c39783619445f637e3f153afe3</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_398047c39783619445f637e3f153afe3">8a96a69f97cfe19445f637e3f153af06</sys_update_version>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-02 05:02:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

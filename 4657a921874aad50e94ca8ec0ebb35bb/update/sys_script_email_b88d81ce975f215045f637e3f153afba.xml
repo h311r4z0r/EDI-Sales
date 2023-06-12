@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>edi_sales_request</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[(function runMailScript(/* GlideRecord */ current, /* TemplatePrinter */ template,
+          /* Optional EmailOutbound */ email, /* Optional GlideRecord */ email_action,
+          /* Optional GlideRecord */ event) {
+
+	var ediSales = new GlideRecord('x_foai_edi_sales_service_request');
+
+	var ediNo = "EDI " + ediSales.number + "Details";
+	var ediCreatedBy = "Created by : " + ediSales.sys_created_by;
+	var ediFaRep = "FA Rep : " + ediSales.fa_rep;
+	var ediAccount = "Account : " + ediSales.account;
+	var currentRevenue = "How much monthly revenue are we getting from this customer today : " + ediSales.current_revenue;
+	var potentialBusiness = "Will this EDI effort bring on any addiional business : " + ediSales.additional_business;
+	var potentialRevenue = "How much additional revenue do ou expect with this EDI exchange : " + ediSales.potential_revenue;
+	
+	//var ediBusinessUnit = ediSales
+
+
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-06-09 12:30:50</sys_created_on>
+        <sys_id>b88d81ce975f215045f637e3f153afba</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>edi_sales_request</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_update_name>sys_script_email_b88d81ce975f215045f637e3f153afba</sys_update_name>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-06-12 07:26:25</sys_updated_on>
+    </sys_script_email>
+</record_update>

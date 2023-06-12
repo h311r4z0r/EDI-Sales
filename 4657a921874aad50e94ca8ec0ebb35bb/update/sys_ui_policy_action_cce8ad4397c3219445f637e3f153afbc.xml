@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>communication_method</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+        <sys_created_on>2023-05-31 06:34:16</sys_created_on>
+        <sys_id>cce8ad4397c3219445f637e3f153afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>communication_method</sys_name>
+        <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+        <sys_update_name>sys_ui_policy_action_cce8ad4397c3219445f637e3f153afbc</sys_update_name>
+        <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+        <sys_updated_on>2023-05-31 06:34:16</sys_updated_on>
+        <table>x_foai_edi_sales_integration_analysis</table>
+        <ui_policy display_value="If &quot;Multiple FA billing accounts&quot; is Yes">b798a14397c3219445f637e3f153afe2</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

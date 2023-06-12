@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="booking_scenarios" table="x_foai_edi_sales_integration_analysis" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>booking_scenarios</element>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 05:34:04</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>booking_scenarios</sys_name>
+            <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+            <sys_update_name>sys_choice_x_foai_edi_sales_integration_analysis_booking_scenarios</sys_update_name>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-05-31 05:34:04</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_scenarios</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Choice 2</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 05:34:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-05-31 05:46:58</sys_updated_on>
+            <value>Choice 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_scenarios</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>D2D: Door to Door</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 05:34:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-05-31 05:34:04</sys_updated_on>
+            <value>d2d</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_scenarios</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A2A: Airport to Airport</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 05:46:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-05-31 05:46:58</sys_updated_on>
+            <value>A2A: Airport to Airport</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_scenarios</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Choice 3</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 05:34:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-05-31 05:46:58</sys_updated_on>
+            <value>Choice 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_scenarios</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A2D: Airport to Door</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 05:46:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-05-31 05:46:58</sys_updated_on>
+            <value>A2D: Airport to Door</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_scenarios</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>D2A: Door to Airport</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 05:46:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-05-31 05:46:58</sys_updated_on>
+            <value>D2A: Door to Airport</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_scenarios</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>L2L: Local to Local</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 05:46:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-05-31 05:46:58</sys_updated_on>
+            <value>L2L: Local to Local</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

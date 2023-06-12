@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="linehaul_only" table="x_foai_edi_sales_integration_analysis" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>linehaul_only</element>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:15:11</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>linehaul_only</sys_name>
+            <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+            <sys_update_name>sys_choice_x_foai_edi_sales_integration_analysis_linehaul_only</sys_update_name>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:15:11</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>linehaul_only</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X3 – Arrive at origin terminal</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:15:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:15:11</sys_updated_on>
+            <value>linehaul_only_x3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>linehaul_only</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AF – Depart from origin terminal</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:15:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:15:34</sys_updated_on>
+            <value>linehaul_only_af</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>linehaul_only</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X4 – Arrive at Transfer Terminal</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:15:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:15:53</sys_updated_on>
+            <value>linehaul_only_x4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>linehaul_only</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P1 – Depart from Transfer Terminal</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:16:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:16:14</sys_updated_on>
+            <value>linehaul_only_p1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>linehaul_only</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X1 – Arrive at Destination Terminal</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:16:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:16:33</sys_updated_on>
+            <value>linehaul_only_x1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>linehaul_only</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>D1 – Recovered from Destination Terminal</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:16:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:16:50</sys_updated_on>
+            <value>linehaul_only_d1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>linehaul_only</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SD – Shipment delay</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>70</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:17:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:17:06</sys_updated_on>
+            <value>linehaul_only_sd</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

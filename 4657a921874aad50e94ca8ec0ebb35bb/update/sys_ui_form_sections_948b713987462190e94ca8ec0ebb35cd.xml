@@ -58,17 +58,115 @@
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>4</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 07:57:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a01cb1479787219445f637e3f153af0d</sys_id>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_foai_edi_sales_integration_analysis" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">948b713987462190e94ca8ec0ebb35cd</sys_ui_form>
+            <sys_ui_section caption="Statuses" display_value="Statuses" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">9c1cb1479787219445f637e3f153af07</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 05:02:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 05:23:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a0caba39747299445f637e3f153afae</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_foai_edi_sales_integration_analysis" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">948b713987462190e94ca8ec0ebb35cd</sys_ui_form>
+            <sys_ui_section caption="X12 214" display_value="X12 214" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">da0caba39747299445f637e3f153afa7</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-06 05:26:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 05:23:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d20caba39747299445f637e3f153aff3</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_foai_edi_sales_integration_analysis" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">948b713987462190e94ca8ec0ebb35cd</sys_ui_form>
+            <sys_ui_section caption="Cargo IMP V7" display_value="Cargo IMP V7" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">160caba39747299445f637e3f153afa9</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-06 05:26:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 08:27:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7dd2028797c7219445f637e3f153af54</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_foai_edi_sales_integration_analysis" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">948b713987462190e94ca8ec0ebb35cd</sys_ui_form>
+            <sys_ui_section caption="Invoices" display_value="Invoices" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">b5d2028797c7219445f637e3f153af0c</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-06 05:26:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 09:21:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b85f8e4b974b219445f637e3f153af27</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_foai_edi_sales_integration_analysis" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">948b713987462190e94ca8ec0ebb35cd</sys_ui_form>
+            <sys_ui_section caption="Remittance" display_value="Remittance" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">fc5f8e4b974b219445f637e3f153af22</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 05:23:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>9</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 09:40:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d83560b978b219445f637e3f153afc0</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_foai_edi_sales_integration_analysis" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">948b713987462190e94ca8ec0ebb35cd</sys_ui_form>
+            <sys_ui_section caption="POD Download" display_value="POD Download" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">8d83560b978b219445f637e3f153afbb</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 05:23:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>10</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-05-31 09:47:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6055968f978b219445f637e3f153afdf</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_foai_edi_sales_integration_analysis" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">948b713987462190e94ca8ec0ebb35cd</sys_ui_form>
+            <sys_ui_section caption="Document Upload" display_value="Document Upload" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec55968f978b219445f637e3f153afd9</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 05:23:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>11</position>
             <sys_created_by>chris.layman@infocenter.io</sys_created_by>
             <sys_created_on>2023-04-07 18:54:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>02ac867987862190e94ca8ec0ebb3541</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>9</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_foai_edi_sales_integration_analysis" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">948b713987462190e94ca8ec0ebb35cd</sys_ui_form>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">c6ac867987862190e94ca8ec0ebb353d</sys_ui_section>
-            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
-            <sys_updated_on>2023-04-07 18:54:51</sys_updated_on>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 05:23:43</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_foai_edi_sales_integration_analysis</name>

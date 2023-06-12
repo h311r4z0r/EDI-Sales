@@ -3,142 +3,352 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>send_bookings</element>
             <position>0</position>
-            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
-            <sys_created_on>2023-04-07 18:53:50</sys_created_on>
-            <sys_id>db6c4e3987862190e94ca8ec0ebb35ce</sys_id>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>241e975f978b259445f637e3f153afd6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
-            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
-            <sys_updated_on>2023-04-07 18:53:50</sys_updated_on>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>update_bookings</element>
             <position>1</position>
-            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
-            <sys_created_on>2023-04-07 18:53:50</sys_created_on>
-            <sys_id>df6c4e3987862190e94ca8ec0ebb35ce</sys_id>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>2c1e975f978b259445f637e3f153afd6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
-            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
-            <sys_updated_on>2023-04-07 18:53:50</sys_updated_on>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>cancel_bookings</element>
             <position>2</position>
-            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
-            <sys_created_on>2023-04-07 18:53:50</sys_created_on>
-            <sys_id>d36c4e3987862190e94ca8ec0ebb35cf</sys_id>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>201e975f978b259445f637e3f153afd7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
-            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
-            <sys_updated_on>2023-04-07 18:53:50</sys_updated_on>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>shipment_mode</element>
             <position>3</position>
-            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
-            <sys_created_on>2023-04-07 18:53:50</sys_created_on>
-            <sys_id>136c827987862190e94ca8ec0ebb356d</sys_id>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>241e975f978b259445f637e3f153afd7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
-            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
-            <sys_updated_on>2023-04-07 18:53:50</sys_updated_on>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>class_rating</element>
+            <position>4</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>281e975f978b259445f637e3f153afd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>density_program</element>
+            <position>5</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>2c1e975f978b259445f637e3f153afd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>multiple_fa_billing_accounts</element>
+            <position>6</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>201e975f978b259445f637e3f153afd8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>communication_method</element>
+            <position>7</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>241e975f978b259445f637e3f153afd8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>accessorials</element>
+            <position>8</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>281e975f978b259445f637e3f153afd8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>methodofcommunication</element>
+            <position>9</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>2c1e975f978b259445f637e3f153afd8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
-            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
-            <sys_created_on>2023-04-07 18:53:50</sys_created_on>
-            <sys_id>176c827987862190e94ca8ec0ebb356d</sys_id>
+            <position>10</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>201e975f978b259445f637e3f153afd9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
-            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
-            <sys_updated_on>2023-04-07 18:53:50</sys_updated_on>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>standard_options</element>
-            <position>5</position>
-            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
-            <sys_created_on>2023-04-07 18:53:50</sys_created_on>
-            <sys_id>1b6c827987862190e94ca8ec0ebb356d</sys_id>
+            <position>11</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>241e975f978b259445f637e3f153afd9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
-            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
-            <sys_updated_on>2023-04-07 18:53:50</sys_updated_on>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>other_option</element>
-            <position>6</position>
-            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
-            <sys_created_on>2023-04-07 18:53:50</sys_created_on>
-            <sys_id>1f6c827987862190e94ca8ec0ebb356d</sys_id>
+            <position>12</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>281e975f978b259445f637e3f153afd9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
-            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
-            <sys_updated_on>2023-04-07 18:53:50</sys_updated_on>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>x12_204_require</element>
-            <position>7</position>
-            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
-            <sys_created_on>2023-04-07 18:53:50</sys_created_on>
-            <sys_id>136c827987862190e94ca8ec0ebb356e</sys_id>
+            <position>13</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>2c1e975f978b259445f637e3f153afd9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
-            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
-            <sys_updated_on>2023-04-07 18:53:50</sys_updated_on>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>cargo_imp_fwb_require</element>
-            <position>8</position>
-            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
-            <sys_created_on>2023-04-07 18:53:50</sys_created_on>
-            <sys_id>176c827987862190e94ca8ec0ebb356e</sys_id>
+            <position>14</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>201e975f978b259445f637e3f153afda</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
-            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
-            <sys_updated_on>2023-04-07 18:53:50</sys_updated_on>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>9</position>
-            <sys_created_by>chris.layman@infocenter.io</sys_created_by>
-            <sys_created_on>2023-04-07 18:53:50</sys_created_on>
-            <sys_id>1b6c827987862190e94ca8ec0ebb356e</sys_id>
+            <element>booking_scenarios</element>
+            <position>15</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>241e975f978b259445f637e3f153afda</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
-            <sys_updated_by>chris.layman@infocenter.io</sys_updated_by>
-            <sys_updated_on>2023-04-07 18:53:50</sys_updated_on>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
             <sys_user/>
-            <type>.end_split</type>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gsv_program</element>
+            <position>16</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>281e975f978b259445f637e3f153afda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>block_of_airbills_required</element>
+            <position>17</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>2c1e975f978b259445f637e3f153afda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account_rep</element>
+            <position>18</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>201e975f978b259445f637e3f153afdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_contact_number</element>
+            <position>19</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>241e975f978b259445f637e3f153afdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_contact_communication_method</element>
+            <position>20</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>281e975f978b259445f637e3f153afdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>keywords</element>
+            <position>21</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>2c1e975f978b259445f637e3f153afdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>keyword_examples</element>
+            <position>22</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>201e975f978b259445f637e3f153afdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer_label</element>
+            <position>23</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>241e975f978b259445f637e3f153afdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>compatibility_approval</element>
+            <position>24</position>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-01 09:44:14</sys_created_on>
+            <sys_id>281e975f978b259445f637e3f153afdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Bookings" display_value="Bookings" name="x_foai_edi_sales_integration_analysis" sys_domain="global" view="Default view">ec23ca3187862190e94ca8ec0ebb357d</sys_ui_section>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-01 09:44:14</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Bookings</caption>

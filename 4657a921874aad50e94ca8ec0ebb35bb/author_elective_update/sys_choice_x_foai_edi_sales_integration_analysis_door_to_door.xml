@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="door_to_door" table="x_foai_edi_sales_integration_analysis" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>door_to_door</element>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:21:14</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>door_to_door</sys_name>
+            <sys_package display_value="EDI Sales" source="x_foai_edi_sales">4657a921874aad50e94ca8ec0ebb35bb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EDI Sales">4657a921874aad50e94ca8ec0ebb35bb</sys_scope>
+            <sys_update_name>sys_choice_x_foai_edi_sales_integration_analysis_door_to_door</sys_update_name>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:21:14</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>door_to_door</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X9 – Pickup</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:21:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:21:14</sys_updated_on>
+            <value>door_to_door_x9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>door_to_door</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X3 – Tendered to our Origin facility</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:21:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:21:32</sys_updated_on>
+            <value>door_to_door_x3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>door_to_door</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AF – Depart origin facility</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:21:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:21:44</sys_updated_on>
+            <value>door_to_door_af</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>door_to_door</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X4 – Arrived at Transfer Terminal Location</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:22:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:22:07</sys_updated_on>
+            <value>door_to_door_x4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>door_to_door</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P1 – Departed Transfer Terminal Location</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:22:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:22:21</sys_updated_on>
+            <value>door_to_door_p1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>door_to_door</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X1 – Arrived at Delivery Terminal Location</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:22:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:22:36</sys_updated_on>
+            <value>door_to_door_x1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>door_to_door</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>J1 – Out for Delivery</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>70</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:22:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:22:49</sys_updated_on>
+            <value>door_to_door_j1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>door_to_door</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>D1 – Completed unloading at Delivery Location</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>80</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:23:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:23:08</sys_updated_on>
+            <value>door_to_door_d1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>door_to_door</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SD – Shipment delay</label>
+            <language>en</language>
+            <name>x_foai_edi_sales_integration_analysis</name>
+            <sequence>90</sequence>
+            <synonyms/>
+            <sys_created_by>pruthav.abhyankar@infocenter.io</sys_created_by>
+            <sys_created_on>2023-06-02 12:23:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pruthav.abhyankar@infocenter.io</sys_updated_by>
+            <sys_updated_on>2023-06-02 12:23:21</sys_updated_on>
+            <value>door_to_door_sd</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
